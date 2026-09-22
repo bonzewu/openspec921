@@ -1,0 +1,523 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		38DAC794E424295860E90674 /* TaiwanZipLookupApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A1C56EB23E5654299F233E /* TaiwanZipLookupApp.swift */; };
+		8A839E21E4294162838BD793 /* ZipCodeRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2113800F4B2014D9E6521CCE /* ZipCodeRecord.swift */; };
+		BE955958D9065B9D529F769D /* ZipCodeDataError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61222E84E7F2D6F438495BD1 /* ZipCodeDataError.swift */; };
+		9FF53EFD1B057E9108F08D3B /* ZipCodeRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77E8FF3E49A12242899849DF /* ZipCodeRepository.swift */; };
+		F58A0E35AF88DA1E79C845A6 /* ZipCodeQuery.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF55850AA96411C7EAE88640 /* ZipCodeQuery.swift */; };
+		6BAA638B27D01B099161DBE5 /* PasteboardService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56FE9478715CE81DDD8B750 /* PasteboardService.swift */; };
+		F7B2BBB1BB3ACF5ADD2256ED /* ZipCodeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CFF799E97EC591593BC319 /* ZipCodeViewModel.swift */; };
+		0744D18C0770145114268B63 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9422A8995C42654E19BEF822 /* ContentView.swift */; };
+		C2ADB74D3BEA9EF214321F2D /* ZipCodeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549B1CC41A37293372C8E3C0 /* ZipCodeRow.swift */; };
+		C2B4B22886D6E77509DBF08B /* zipcodes.json in Resources */ = {isa = PBXBuildFile; fileRef = 8B334EB1A9927DAD6A080DDD /* zipcodes.json */; };
+		62937C5332A8DE77BE04B726 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 788E2317A22D7AADBC3DDFE2 /* Assets.xcassets */; };
+		A1753CE313BA2A06D3D34950 /* ZipCodeRepositoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7F606AD72B9CB52D83625A8 /* ZipCodeRepositoryTests.swift */; };
+		2CE4D17BC5682C44FD21E81D /* ZipCodeQueryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C12C34DB4B9B23A6920A623B /* ZipCodeQueryTests.swift */; };
+		710AF1296BDBBBE3867A244F /* PasteboardServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2761655048D04532792C680D /* PasteboardServiceTests.swift */; };
+		B3EEE229CCBB4CA046F2949E /* ZipCodeViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3059B4E06A936E8E65DCEB /* ZipCodeViewModelTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E0511810F7D19861CCF3FA10 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46F86FAA6BBF9AC94A7E4595 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3CF92D32E5C5A22CDC3CB9A1;
+			remoteInfo = TaiwanZipLookup;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		571CD3829D85311D5626CD79 /* TaiwanZipLookup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaiwanZipLookup.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE96C569CF148F6020319A8D /* TaiwanZipLookupTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaiwanZipLookupTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04A1C56EB23E5654299F233E /* TaiwanZipLookupApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaiwanZipLookupApp.swift; sourceTree = "<group>"; };
+		2113800F4B2014D9E6521CCE /* ZipCodeRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeRecord.swift; sourceTree = "<group>"; };
+		61222E84E7F2D6F438495BD1 /* ZipCodeDataError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeDataError.swift; sourceTree = "<group>"; };
+		77E8FF3E49A12242899849DF /* ZipCodeRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeRepository.swift; sourceTree = "<group>"; };
+		DF55850AA96411C7EAE88640 /* ZipCodeQuery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeQuery.swift; sourceTree = "<group>"; };
+		C56FE9478715CE81DDD8B750 /* PasteboardService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasteboardService.swift; sourceTree = "<group>"; };
+		43CFF799E97EC591593BC319 /* ZipCodeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeViewModel.swift; sourceTree = "<group>"; };
+		9422A8995C42654E19BEF822 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		549B1CC41A37293372C8E3C0 /* ZipCodeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeRow.swift; sourceTree = "<group>"; };
+		8B334EB1A9927DAD6A080DDD /* zipcodes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = zipcodes.json; sourceTree = "<group>"; };
+		788E2317A22D7AADBC3DDFE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E40F2136F97BA5A880016222 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7F606AD72B9CB52D83625A8 /* ZipCodeRepositoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeRepositoryTests.swift; sourceTree = "<group>"; };
+		C12C34DB4B9B23A6920A623B /* ZipCodeQueryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeQueryTests.swift; sourceTree = "<group>"; };
+		2761655048D04532792C680D /* PasteboardServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasteboardServiceTests.swift; sourceTree = "<group>"; };
+		BD3059B4E06A936E8E65DCEB /* ZipCodeViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZipCodeViewModelTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ADEC3F8DB3276605358D2FD9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		29448F81102D296F1C958FDD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3C3442C5B9F6532FA522C9A7 = {
+			isa = PBXGroup;
+			children = (
+				56A1B566039BA486F2D6DC66 /* TaiwanZipLookup */,
+				092DEE1B9E766B1416E25C03 /* TaiwanZipLookupTests */,
+				CC0F68FE2D81F9614883F277 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CC0F68FE2D81F9614883F277 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				571CD3829D85311D5626CD79 /* TaiwanZipLookup.app */,
+				BE96C569CF148F6020319A8D /* TaiwanZipLookupTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		56A1B566039BA486F2D6DC66 /* TaiwanZipLookup */ = {
+			isa = PBXGroup;
+			children = (
+				04A1C56EB23E5654299F233E /* TaiwanZipLookupApp.swift */,
+				839179B13A3AE7C6081556B5 /* Models */,
+				9B80064E77CBDC50AA684CA2 /* Services */,
+				E277C5D5BBBAA7015557F1AF /* ViewModels */,
+				D432DE9D2CAC9EF9F17BD7EE /* Views */,
+				73A8794B5739BED1E4BFED88 /* Resources */,
+				788E2317A22D7AADBC3DDFE2 /* Assets.xcassets */,
+				E40F2136F97BA5A880016222 /* Info.plist */,
+			);
+			path = TaiwanZipLookup;
+			sourceTree = "<group>";
+		};
+		839179B13A3AE7C6081556B5 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2113800F4B2014D9E6521CCE /* ZipCodeRecord.swift */,
+				61222E84E7F2D6F438495BD1 /* ZipCodeDataError.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		9B80064E77CBDC50AA684CA2 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				77E8FF3E49A12242899849DF /* ZipCodeRepository.swift */,
+				DF55850AA96411C7EAE88640 /* ZipCodeQuery.swift */,
+				C56FE9478715CE81DDD8B750 /* PasteboardService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		E277C5D5BBBAA7015557F1AF /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				43CFF799E97EC591593BC319 /* ZipCodeViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		D432DE9D2CAC9EF9F17BD7EE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9422A8995C42654E19BEF822 /* ContentView.swift */,
+				549B1CC41A37293372C8E3C0 /* ZipCodeRow.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		73A8794B5739BED1E4BFED88 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8B334EB1A9927DAD6A080DDD /* zipcodes.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		092DEE1B9E766B1416E25C03 /* TaiwanZipLookupTests */ = {
+			isa = PBXGroup;
+			children = (
+				B7F606AD72B9CB52D83625A8 /* ZipCodeRepositoryTests.swift */,
+				C12C34DB4B9B23A6920A623B /* ZipCodeQueryTests.swift */,
+				2761655048D04532792C680D /* PasteboardServiceTests.swift */,
+				BD3059B4E06A936E8E65DCEB /* ZipCodeViewModelTests.swift */,
+			);
+			path = TaiwanZipLookupTests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3CF92D32E5C5A22CDC3CB9A1 /* TaiwanZipLookup */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 74FFDAE3710BF64A9FAE1D7E /* Build configuration list for PBXNativeTarget "TaiwanZipLookup" */;
+			buildPhases = (
+				2C9AA3B2FBAFFAFAE8E203D2 /* Sources */,
+				ADEC3F8DB3276605358D2FD9 /* Frameworks */,
+				CB6CE9FF690F874A1EF418D3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TaiwanZipLookup;
+			productName = TaiwanZipLookup;
+			productReference = 571CD3829D85311D5626CD79 /* TaiwanZipLookup.app */;
+			productType = "com.apple.product-type.application";
+		};
+		956A38893B0ADC988E591F95 /* TaiwanZipLookupTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F2FB5349A10764412415843 /* Build configuration list for PBXNativeTarget "TaiwanZipLookupTests" */;
+			buildPhases = (
+				58D4731B9CAD8DFC66F4B673 /* Sources */,
+				29448F81102D296F1C958FDD /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DF209D896B0583A7D727F293 /* PBXTargetDependency */,
+			);
+			name = TaiwanZipLookupTests;
+			productName = TaiwanZipLookupTests;
+			productReference = BE96C569CF148F6020319A8D /* TaiwanZipLookupTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		46F86FAA6BBF9AC94A7E4595 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					3CF92D32E5C5A22CDC3CB9A1 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					956A38893B0ADC988E591F95 = {
+						CreatedOnToolsVersion = 15.0;
+						TestTargetID = 3CF92D32E5C5A22CDC3CB9A1;
+					};
+				};
+			};
+			buildConfigurationList = 4E161FD39E8D3795DB1A3E29 /* Build configuration list for PBXProject "TaiwanZipLookup" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = "zh-Hant";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				"zh-Hant",
+				Base,
+			);
+			mainGroup = 3C3442C5B9F6532FA522C9A7;
+			productRefGroup = CC0F68FE2D81F9614883F277 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3CF92D32E5C5A22CDC3CB9A1 /* TaiwanZipLookup */,
+				956A38893B0ADC988E591F95 /* TaiwanZipLookupTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CB6CE9FF690F874A1EF418D3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C2B4B22886D6E77509DBF08B /* zipcodes.json in Resources */,
+				62937C5332A8DE77BE04B726 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2C9AA3B2FBAFFAFAE8E203D2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				38DAC794E424295860E90674 /* TaiwanZipLookupApp.swift in Sources */,
+				8A839E21E4294162838BD793 /* ZipCodeRecord.swift in Sources */,
+				BE955958D9065B9D529F769D /* ZipCodeDataError.swift in Sources */,
+				9FF53EFD1B057E9108F08D3B /* ZipCodeRepository.swift in Sources */,
+				F58A0E35AF88DA1E79C845A6 /* ZipCodeQuery.swift in Sources */,
+				6BAA638B27D01B099161DBE5 /* PasteboardService.swift in Sources */,
+				F7B2BBB1BB3ACF5ADD2256ED /* ZipCodeViewModel.swift in Sources */,
+				0744D18C0770145114268B63 /* ContentView.swift in Sources */,
+				C2ADB74D3BEA9EF214321F2D /* ZipCodeRow.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		58D4731B9CAD8DFC66F4B673 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1753CE313BA2A06D3D34950 /* ZipCodeRepositoryTests.swift in Sources */,
+				2CE4D17BC5682C44FD21E81D /* ZipCodeQueryTests.swift in Sources */,
+				710AF1296BDBBBE3867A244F /* PasteboardServiceTests.swift in Sources */,
+				B3EEE229CCBB4CA046F2949E /* ZipCodeViewModelTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DF209D896B0583A7D727F293 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3CF92D32E5C5A22CDC3CB9A1 /* TaiwanZipLookup */;
+			targetProxy = E0511810F7D19861CCF3FA10 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9072BED24623CD4BD5318C4D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BE1C9ED33C6201F2A13F335A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		FE4401F1864E6D214ECAB450 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = TaiwanZipLookup/Info.plist;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bonzewu.TaiwanZipLookup;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		AF37EF8BEBDCB8D4C98E7CA2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = TaiwanZipLookup/Info.plist;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bonzewu.TaiwanZipLookup;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		05EF98B0FEE3C98BD85D8FF1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bonzewu.TaiwanZipLookupTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TaiwanZipLookup.app/Contents/MacOS/TaiwanZipLookup";
+			};
+			name = Debug;
+		};
+		9F898E1FA96FF8BB36CF67D3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bonzewu.TaiwanZipLookupTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TaiwanZipLookup.app/Contents/MacOS/TaiwanZipLookup";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4E161FD39E8D3795DB1A3E29 /* Build configuration list for PBXProject "TaiwanZipLookup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9072BED24623CD4BD5318C4D /* Debug */,
+				BE1C9ED33C6201F2A13F335A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		74FFDAE3710BF64A9FAE1D7E /* Build configuration list for PBXNativeTarget "TaiwanZipLookup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FE4401F1864E6D214ECAB450 /* Debug */,
+				AF37EF8BEBDCB8D4C98E7CA2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F2FB5349A10764412415843 /* Build configuration list for PBXNativeTarget "TaiwanZipLookupTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				05EF98B0FEE3C98BD85D8FF1 /* Debug */,
+				9F898E1FA96FF8BB36CF67D3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46F86FAA6BBF9AC94A7E4595 /* Project object */;
+}

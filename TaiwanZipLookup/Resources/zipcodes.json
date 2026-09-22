@@ -1,0 +1,2620 @@
+[
+  {
+    "zipCode": "100",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "中正區",
+    "districtEnglish": "Zhongzheng Dist."
+  },
+  {
+    "zipCode": "103",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "大同區",
+    "districtEnglish": "Datong Dist."
+  },
+  {
+    "zipCode": "104",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "中山區",
+    "districtEnglish": "Zhongshan Dist."
+  },
+  {
+    "zipCode": "105",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "松山區",
+    "districtEnglish": "Songshan Dist."
+  },
+  {
+    "zipCode": "106",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "大安區",
+    "districtEnglish": "Da’an Dist."
+  },
+  {
+    "zipCode": "108",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "萬華區",
+    "districtEnglish": "Wanhua Dist."
+  },
+  {
+    "zipCode": "110",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "信義區",
+    "districtEnglish": "Xinyi Dist."
+  },
+  {
+    "zipCode": "111",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "士林區",
+    "districtEnglish": "Shilin Dist."
+  },
+  {
+    "zipCode": "112",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "北投區",
+    "districtEnglish": "Beitou Dist."
+  },
+  {
+    "zipCode": "114",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "內湖區",
+    "districtEnglish": "Neihu Dist."
+  },
+  {
+    "zipCode": "115",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "南港區",
+    "districtEnglish": "Nangang Dist."
+  },
+  {
+    "zipCode": "116",
+    "city": "臺北市",
+    "cityEnglish": "Taipei City",
+    "district": "文山區",
+    "districtEnglish": "Wenshan Dist."
+  },
+  {
+    "zipCode": "200",
+    "city": "基隆市",
+    "cityEnglish": "Keelung City",
+    "district": "仁愛區",
+    "districtEnglish": "Ren’ai Dist."
+  },
+  {
+    "zipCode": "201",
+    "city": "基隆市",
+    "cityEnglish": "Keelung City",
+    "district": "信義區",
+    "districtEnglish": "Xinyi Dist."
+  },
+  {
+    "zipCode": "202",
+    "city": "基隆市",
+    "cityEnglish": "Keelung City",
+    "district": "中正區",
+    "districtEnglish": "Zhongzheng Dist."
+  },
+  {
+    "zipCode": "203",
+    "city": "基隆市",
+    "cityEnglish": "Keelung City",
+    "district": "中山區",
+    "districtEnglish": "Zhongshan Dist."
+  },
+  {
+    "zipCode": "204",
+    "city": "基隆市",
+    "cityEnglish": "Keelung City",
+    "district": "安樂區",
+    "districtEnglish": "Anle Dist."
+  },
+  {
+    "zipCode": "205",
+    "city": "基隆市",
+    "cityEnglish": "Keelung City",
+    "district": "暖暖區",
+    "districtEnglish": "Nuannuan Dist."
+  },
+  {
+    "zipCode": "206",
+    "city": "基隆市",
+    "cityEnglish": "Keelung City",
+    "district": "七堵區",
+    "districtEnglish": "Qidu Dist."
+  },
+  {
+    "zipCode": "207",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "萬里區",
+    "districtEnglish": "Wanli Dist."
+  },
+  {
+    "zipCode": "208",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "金山區",
+    "districtEnglish": "Jinshan Dist."
+  },
+  {
+    "zipCode": "220",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "板橋區",
+    "districtEnglish": "Banqiao Dist."
+  },
+  {
+    "zipCode": "221",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "汐止區",
+    "districtEnglish": "Xizhi Dist."
+  },
+  {
+    "zipCode": "222",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "深坑區",
+    "districtEnglish": "Shenkeng Dist."
+  },
+  {
+    "zipCode": "223",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "石碇區",
+    "districtEnglish": "Shiding Dist."
+  },
+  {
+    "zipCode": "224",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "瑞芳區",
+    "districtEnglish": "Ruifang Dist."
+  },
+  {
+    "zipCode": "226",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "平溪區",
+    "districtEnglish": "Pingxi Dist."
+  },
+  {
+    "zipCode": "227",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "雙溪區",
+    "districtEnglish": "Shuangxi Dist."
+  },
+  {
+    "zipCode": "228",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "貢寮區",
+    "districtEnglish": "Gongliao Dist."
+  },
+  {
+    "zipCode": "231",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "新店區",
+    "districtEnglish": "Xindian Dist."
+  },
+  {
+    "zipCode": "232",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "坪林區",
+    "districtEnglish": "Pinglin Dist."
+  },
+  {
+    "zipCode": "233",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "烏來區",
+    "districtEnglish": "Wulai Dist."
+  },
+  {
+    "zipCode": "234",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "永和區",
+    "districtEnglish": "Yonghe Dist."
+  },
+  {
+    "zipCode": "235",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "中和區",
+    "districtEnglish": "Zhonghe Dist."
+  },
+  {
+    "zipCode": "236",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "土城區",
+    "districtEnglish": "Tucheng Dist."
+  },
+  {
+    "zipCode": "237",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "三峽區",
+    "districtEnglish": "Sanxia Dist."
+  },
+  {
+    "zipCode": "238",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "樹林區",
+    "districtEnglish": "Shulin Dist."
+  },
+  {
+    "zipCode": "239",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "鶯歌區",
+    "districtEnglish": "Yingge Dist."
+  },
+  {
+    "zipCode": "241",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "三重區",
+    "districtEnglish": "Sanchong Dist."
+  },
+  {
+    "zipCode": "242",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "新莊區",
+    "districtEnglish": "Xinzhuang Dist."
+  },
+  {
+    "zipCode": "243",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "泰山區",
+    "districtEnglish": "Taishan Dist."
+  },
+  {
+    "zipCode": "244",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "林口區",
+    "districtEnglish": "Linkou Dist."
+  },
+  {
+    "zipCode": "247",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "蘆洲區",
+    "districtEnglish": "Luzhou Dist."
+  },
+  {
+    "zipCode": "248",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "五股區",
+    "districtEnglish": "Wugu Dist."
+  },
+  {
+    "zipCode": "249",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "八里區",
+    "districtEnglish": "Bali Dist."
+  },
+  {
+    "zipCode": "251",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "淡水區",
+    "districtEnglish": "Tamsui Dist."
+  },
+  {
+    "zipCode": "252",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "三芝區",
+    "districtEnglish": "Sanzhi Dist."
+  },
+  {
+    "zipCode": "253",
+    "city": "新北市",
+    "cityEnglish": "New Taipei City",
+    "district": "石門區",
+    "districtEnglish": "Shimen Dist."
+  },
+  {
+    "zipCode": "209",
+    "city": "連江縣",
+    "cityEnglish": "Lienchiang County",
+    "district": "南竿鄉",
+    "districtEnglish": "Nangan Township"
+  },
+  {
+    "zipCode": "210",
+    "city": "連江縣",
+    "cityEnglish": "Lienchiang County",
+    "district": "北竿鄉",
+    "districtEnglish": "Beigan Township"
+  },
+  {
+    "zipCode": "211",
+    "city": "連江縣",
+    "cityEnglish": "Lienchiang County",
+    "district": "莒光鄉",
+    "districtEnglish": "Juguang Township"
+  },
+  {
+    "zipCode": "212",
+    "city": "連江縣",
+    "cityEnglish": "Lienchiang County",
+    "district": "東引鄉",
+    "districtEnglish": "Dongyin Township"
+  },
+  {
+    "zipCode": "260",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "宜蘭市",
+    "districtEnglish": "Yilan City"
+  },
+  {
+    "zipCode": "263",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "壯圍鄉",
+    "districtEnglish": "Zhuangwei Township"
+  },
+  {
+    "zipCode": "261",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "頭城鎮",
+    "districtEnglish": "Toucheng Township"
+  },
+  {
+    "zipCode": "262",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "礁溪鄉",
+    "districtEnglish": "Jiaoxi Township"
+  },
+  {
+    "zipCode": "264",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "員山鄉",
+    "districtEnglish": "Yuanshan Township"
+  },
+  {
+    "zipCode": "265",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "羅東鎮",
+    "districtEnglish": "Luodong Township"
+  },
+  {
+    "zipCode": "266",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "三星鄉",
+    "districtEnglish": "Sanxing Township"
+  },
+  {
+    "zipCode": "267",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "大同鄉",
+    "districtEnglish": "Datong Township"
+  },
+  {
+    "zipCode": "268",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "五結鄉",
+    "districtEnglish": "Wujie Township"
+  },
+  {
+    "zipCode": "269",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "冬山鄉",
+    "districtEnglish": "Dongshan Township"
+  },
+  {
+    "zipCode": "270",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "蘇澳鎮",
+    "districtEnglish": "Su’ao Township"
+  },
+  {
+    "zipCode": "272",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "南澳鄉",
+    "districtEnglish": "Nan’ao Township"
+  },
+  {
+    "zipCode": "290",
+    "city": "宜蘭縣",
+    "cityEnglish": "Yilan County",
+    "district": "釣魚臺",
+    "districtEnglish": "Diaoyutai"
+  },
+  {
+    "zipCode": "290",
+    "city": "釣魚臺",
+    "cityEnglish": "Diauyutai",
+    "district": "釣魚臺",
+    "districtEnglish": "Diaoyutai"
+  },
+  {
+    "zipCode": "300",
+    "city": "新竹市",
+    "cityEnglish": "Hsinchu City",
+    "district": "東區",
+    "districtEnglish": "East Dist."
+  },
+  {
+    "zipCode": "300",
+    "city": "新竹市",
+    "cityEnglish": "Hsinchu City",
+    "district": "北區",
+    "districtEnglish": "North Dist."
+  },
+  {
+    "zipCode": "300",
+    "city": "新竹市",
+    "cityEnglish": "Hsinchu City",
+    "district": "香山區",
+    "districtEnglish": "Xiangshan Dist."
+  },
+  {
+    "zipCode": "308",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "寶山鄉",
+    "districtEnglish": "Baoshan Township"
+  },
+  {
+    "zipCode": "302",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "竹北市",
+    "districtEnglish": "Zhubei City"
+  },
+  {
+    "zipCode": "303",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "湖口鄉",
+    "districtEnglish": "Hukou Township"
+  },
+  {
+    "zipCode": "304",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "新豐鄉",
+    "districtEnglish": "Xinfeng Township"
+  },
+  {
+    "zipCode": "305",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "新埔鎮",
+    "districtEnglish": "Xinpu Township"
+  },
+  {
+    "zipCode": "306",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "關西鎮",
+    "districtEnglish": "Guanxi Township"
+  },
+  {
+    "zipCode": "307",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "芎林鄉",
+    "districtEnglish": "Qionglin Township"
+  },
+  {
+    "zipCode": "310",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "竹東鎮",
+    "districtEnglish": "Zhudong Township"
+  },
+  {
+    "zipCode": "311",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "五峰鄉",
+    "districtEnglish": "Wufeng Township"
+  },
+  {
+    "zipCode": "312",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "橫山鄉",
+    "districtEnglish": "Hengshan Township"
+  },
+  {
+    "zipCode": "313",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "尖石鄉",
+    "districtEnglish": "Jianshi Township"
+  },
+  {
+    "zipCode": "314",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "北埔鄉",
+    "districtEnglish": "Beipu Township"
+  },
+  {
+    "zipCode": "315",
+    "city": "新竹縣",
+    "cityEnglish": "Hsinchu County",
+    "district": "峨眉鄉",
+    "districtEnglish": "Emei Township"
+  },
+  {
+    "zipCode": "320",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "中壢區",
+    "districtEnglish": "Zhongli Dist."
+  },
+  {
+    "zipCode": "324",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "平鎮區",
+    "districtEnglish": "Pingzhen Dist."
+  },
+  {
+    "zipCode": "325",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "龍潭區",
+    "districtEnglish": "Longtan Dist."
+  },
+  {
+    "zipCode": "326",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "楊梅區",
+    "districtEnglish": "Yangmei Dist."
+  },
+  {
+    "zipCode": "327",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "新屋區",
+    "districtEnglish": "Xinwu Dist."
+  },
+  {
+    "zipCode": "328",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "觀音區",
+    "districtEnglish": "Guanyin Dist."
+  },
+  {
+    "zipCode": "330",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "桃園區",
+    "districtEnglish": "Taoyuan Dist."
+  },
+  {
+    "zipCode": "333",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "龜山區",
+    "districtEnglish": "Guishan Dist."
+  },
+  {
+    "zipCode": "334",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "八德區",
+    "districtEnglish": "Bade Dist."
+  },
+  {
+    "zipCode": "335",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "大溪區",
+    "districtEnglish": "Daxi Dist."
+  },
+  {
+    "zipCode": "336",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "復興區",
+    "districtEnglish": "Fuxing Dist."
+  },
+  {
+    "zipCode": "337",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "大園區",
+    "districtEnglish": "Dayuan Dist."
+  },
+  {
+    "zipCode": "338",
+    "city": "桃園市",
+    "cityEnglish": "Taoyuan City",
+    "district": "蘆竹區",
+    "districtEnglish": "Luzhu Dist."
+  },
+  {
+    "zipCode": "350",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "竹南鎮",
+    "districtEnglish": "Zhunan Township"
+  },
+  {
+    "zipCode": "351",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "頭份市",
+    "districtEnglish": "Toufen City"
+  },
+  {
+    "zipCode": "352",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "三灣鄉",
+    "districtEnglish": "Sanwan Township"
+  },
+  {
+    "zipCode": "353",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "南庄鄉",
+    "districtEnglish": "Nanzhuang Township"
+  },
+  {
+    "zipCode": "354",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "獅潭鄉",
+    "districtEnglish": "Shitan Township"
+  },
+  {
+    "zipCode": "356",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "後龍鎮",
+    "districtEnglish": "Houlong Township"
+  },
+  {
+    "zipCode": "357",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "通霄鎮",
+    "districtEnglish": "Tongxiao Township"
+  },
+  {
+    "zipCode": "358",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "苑裡鎮",
+    "districtEnglish": "Yuanli Township"
+  },
+  {
+    "zipCode": "360",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "苗栗市",
+    "districtEnglish": "Miaoli City"
+  },
+  {
+    "zipCode": "361",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "造橋鄉",
+    "districtEnglish": "Zaoqiao Township"
+  },
+  {
+    "zipCode": "362",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "頭屋鄉",
+    "districtEnglish": "Touwu Township"
+  },
+  {
+    "zipCode": "363",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "公館鄉",
+    "districtEnglish": "Gongguan Township"
+  },
+  {
+    "zipCode": "364",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "大湖鄉",
+    "districtEnglish": "Dahu Township"
+  },
+  {
+    "zipCode": "365",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "泰安鄉",
+    "districtEnglish": "Tai’an Township"
+  },
+  {
+    "zipCode": "366",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "銅鑼鄉",
+    "districtEnglish": "Tongluo Township"
+  },
+  {
+    "zipCode": "367",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "三義鄉",
+    "districtEnglish": "Sanyi Township"
+  },
+  {
+    "zipCode": "368",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "西湖鄉",
+    "districtEnglish": "Xihu Township"
+  },
+  {
+    "zipCode": "369",
+    "city": "苗栗縣",
+    "cityEnglish": "Miaoli County",
+    "district": "卓蘭鎮",
+    "districtEnglish": "Zhuolan Township"
+  },
+  {
+    "zipCode": "400",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "中區",
+    "districtEnglish": "Central Dist."
+  },
+  {
+    "zipCode": "401",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "東區",
+    "districtEnglish": "East Dist."
+  },
+  {
+    "zipCode": "402",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "南區",
+    "districtEnglish": "South Dist."
+  },
+  {
+    "zipCode": "403",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "西區",
+    "districtEnglish": "West Dist."
+  },
+  {
+    "zipCode": "404",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "北區",
+    "districtEnglish": "North Dist."
+  },
+  {
+    "zipCode": "406",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "北屯區",
+    "districtEnglish": "Beitun Dist."
+  },
+  {
+    "zipCode": "407",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "西屯區",
+    "districtEnglish": "Xitun Dist."
+  },
+  {
+    "zipCode": "408",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "南屯區",
+    "districtEnglish": "Nantun Dist."
+  },
+  {
+    "zipCode": "411",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "太平區",
+    "districtEnglish": "Taiping Dist."
+  },
+  {
+    "zipCode": "412",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "大里區",
+    "districtEnglish": "Dali Dist."
+  },
+  {
+    "zipCode": "413",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "霧峰區",
+    "districtEnglish": "Wufeng Dist."
+  },
+  {
+    "zipCode": "414",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "烏日區",
+    "districtEnglish": "Wuri Dist."
+  },
+  {
+    "zipCode": "420",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "豐原區",
+    "districtEnglish": "Fengyuan Dist."
+  },
+  {
+    "zipCode": "421",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "后里區",
+    "districtEnglish": "Houli Dist."
+  },
+  {
+    "zipCode": "422",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "石岡區",
+    "districtEnglish": "Shigang Dist."
+  },
+  {
+    "zipCode": "423",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "東勢區",
+    "districtEnglish": "Dongshi Dist."
+  },
+  {
+    "zipCode": "424",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "和平區",
+    "districtEnglish": "Heping Dist."
+  },
+  {
+    "zipCode": "426",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "新社區",
+    "districtEnglish": "Xinshe Dist."
+  },
+  {
+    "zipCode": "427",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "潭子區",
+    "districtEnglish": "Tanzi Dist."
+  },
+  {
+    "zipCode": "428",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "大雅區",
+    "districtEnglish": "Daya Dist."
+  },
+  {
+    "zipCode": "429",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "神岡區",
+    "districtEnglish": "Shengang Dist."
+  },
+  {
+    "zipCode": "432",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "大肚區",
+    "districtEnglish": "Dadu Dist."
+  },
+  {
+    "zipCode": "433",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "沙鹿區",
+    "districtEnglish": "Shalu Dist."
+  },
+  {
+    "zipCode": "434",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "龍井區",
+    "districtEnglish": "Longjing Dist."
+  },
+  {
+    "zipCode": "435",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "梧棲區",
+    "districtEnglish": "Wuqi Dist."
+  },
+  {
+    "zipCode": "436",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "清水區",
+    "districtEnglish": "Qingshui Dist."
+  },
+  {
+    "zipCode": "437",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "大甲區",
+    "districtEnglish": "Dajia Dist."
+  },
+  {
+    "zipCode": "438",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "外埔區",
+    "districtEnglish": "Waipu Dist."
+  },
+  {
+    "zipCode": "439",
+    "city": "臺中市",
+    "cityEnglish": "Taichung City",
+    "district": "大安區",
+    "districtEnglish": "Da’an Dist."
+  },
+  {
+    "zipCode": "500",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "彰化市",
+    "districtEnglish": "Changhua City"
+  },
+  {
+    "zipCode": "502",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "芬園鄉",
+    "districtEnglish": "Fenyuan Township"
+  },
+  {
+    "zipCode": "503",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "花壇鄉",
+    "districtEnglish": "Huatan Township"
+  },
+  {
+    "zipCode": "504",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "秀水鄉",
+    "districtEnglish": "Xiushui Township"
+  },
+  {
+    "zipCode": "505",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "鹿港鎮",
+    "districtEnglish": "Lukang Township"
+  },
+  {
+    "zipCode": "506",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "福興鄉",
+    "districtEnglish": "Fuxing Township"
+  },
+  {
+    "zipCode": "507",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "線西鄉",
+    "districtEnglish": "Xianxi Township"
+  },
+  {
+    "zipCode": "508",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "和美鎮",
+    "districtEnglish": "Hemei Township"
+  },
+  {
+    "zipCode": "509",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "伸港鄉",
+    "districtEnglish": "Shengang Township"
+  },
+  {
+    "zipCode": "510",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "員林市",
+    "districtEnglish": "Yuanlin City"
+  },
+  {
+    "zipCode": "511",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "社頭鄉",
+    "districtEnglish": "Shetou Township"
+  },
+  {
+    "zipCode": "512",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "永靖鄉",
+    "districtEnglish": "Yongjing Township"
+  },
+  {
+    "zipCode": "513",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "埔心鄉",
+    "districtEnglish": "Puxin Township"
+  },
+  {
+    "zipCode": "514",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "溪湖鎮",
+    "districtEnglish": "Xihu Township"
+  },
+  {
+    "zipCode": "515",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "大村鄉",
+    "districtEnglish": "Dacun Township"
+  },
+  {
+    "zipCode": "516",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "埔鹽鄉",
+    "districtEnglish": "Puyan Township"
+  },
+  {
+    "zipCode": "520",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "田中鎮",
+    "districtEnglish": "Tianzhong Township"
+  },
+  {
+    "zipCode": "521",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "北斗鎮",
+    "districtEnglish": "Beidou Township"
+  },
+  {
+    "zipCode": "522",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "田尾鄉",
+    "districtEnglish": "Tianwei Township"
+  },
+  {
+    "zipCode": "523",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "埤頭鄉",
+    "districtEnglish": "Pitou Township"
+  },
+  {
+    "zipCode": "524",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "溪州鄉",
+    "districtEnglish": "Xizhou Township"
+  },
+  {
+    "zipCode": "525",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "竹塘鄉",
+    "districtEnglish": "Zhutang Township"
+  },
+  {
+    "zipCode": "526",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "二林鎮",
+    "districtEnglish": "Erlin Township"
+  },
+  {
+    "zipCode": "527",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "大城鄉",
+    "districtEnglish": "Dacheng Township"
+  },
+  {
+    "zipCode": "528",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "芳苑鄉",
+    "districtEnglish": "Fangyuan Township"
+  },
+  {
+    "zipCode": "530",
+    "city": "彰化縣",
+    "cityEnglish": "Changhua County",
+    "district": "二水鄉",
+    "districtEnglish": "Ershui Township"
+  },
+  {
+    "zipCode": "540",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "南投市",
+    "districtEnglish": "Nantou City"
+  },
+  {
+    "zipCode": "541",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "中寮鄉",
+    "districtEnglish": "Zhongliao Township"
+  },
+  {
+    "zipCode": "542",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "草屯鎮",
+    "districtEnglish": "Caotun Township"
+  },
+  {
+    "zipCode": "544",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "國姓鄉",
+    "districtEnglish": "Guoxing Township"
+  },
+  {
+    "zipCode": "545",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "埔里鎮",
+    "districtEnglish": "Puli Township"
+  },
+  {
+    "zipCode": "546",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "仁愛鄉",
+    "districtEnglish": "Ren’ai Township"
+  },
+  {
+    "zipCode": "551",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "名間鄉",
+    "districtEnglish": "Mingjian Township"
+  },
+  {
+    "zipCode": "552",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "集集鎮",
+    "districtEnglish": "Jiji Township"
+  },
+  {
+    "zipCode": "553",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "水里鄉",
+    "districtEnglish": "Shuili Township"
+  },
+  {
+    "zipCode": "555",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "魚池鄉",
+    "districtEnglish": "Yuchi Township"
+  },
+  {
+    "zipCode": "556",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "信義鄉",
+    "districtEnglish": "Xinyi Township"
+  },
+  {
+    "zipCode": "557",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "竹山鎮",
+    "districtEnglish": "Zhushan Township"
+  },
+  {
+    "zipCode": "558",
+    "city": "南投縣",
+    "cityEnglish": "Nantou County",
+    "district": "鹿谷鄉",
+    "districtEnglish": "Lugu Township"
+  },
+  {
+    "zipCode": "600",
+    "city": "嘉義市",
+    "cityEnglish": "Chiayi City",
+    "district": "西區",
+    "districtEnglish": "West Dist."
+  },
+  {
+    "zipCode": "600",
+    "city": "嘉義市",
+    "cityEnglish": "Chiayi City",
+    "district": "東區",
+    "districtEnglish": "East Dist."
+  },
+  {
+    "zipCode": "602",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "番路鄉",
+    "districtEnglish": "Fanlu Township"
+  },
+  {
+    "zipCode": "603",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "梅山鄉",
+    "districtEnglish": "Meishan Township"
+  },
+  {
+    "zipCode": "604",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "竹崎鄉",
+    "districtEnglish": "Zhuqi Township"
+  },
+  {
+    "zipCode": "605",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "阿里山鄉",
+    "districtEnglish": "Alishan Township"
+  },
+  {
+    "zipCode": "606",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "中埔鄉",
+    "districtEnglish": "Zhongpu Township"
+  },
+  {
+    "zipCode": "607",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "大埔鄉",
+    "districtEnglish": "Dapu Township"
+  },
+  {
+    "zipCode": "608",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "水上鄉",
+    "districtEnglish": "Shuishang Township"
+  },
+  {
+    "zipCode": "611",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "鹿草鄉",
+    "districtEnglish": "Lucao Township"
+  },
+  {
+    "zipCode": "612",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "太保市",
+    "districtEnglish": "Taibao City"
+  },
+  {
+    "zipCode": "613",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "朴子市",
+    "districtEnglish": "Puzi City"
+  },
+  {
+    "zipCode": "614",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "東石鄉",
+    "districtEnglish": "Dongshi Township"
+  },
+  {
+    "zipCode": "615",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "六腳鄉",
+    "districtEnglish": "Liujiao Township"
+  },
+  {
+    "zipCode": "616",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "新港鄉",
+    "districtEnglish": "Xingang Township"
+  },
+  {
+    "zipCode": "621",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "民雄鄉",
+    "districtEnglish": "Minxiong Township"
+  },
+  {
+    "zipCode": "622",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "大林鎮",
+    "districtEnglish": "Dalin Township"
+  },
+  {
+    "zipCode": "623",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "溪口鄉",
+    "districtEnglish": "Xikou Township"
+  },
+  {
+    "zipCode": "624",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "義竹鄉",
+    "districtEnglish": "Yizhu Township"
+  },
+  {
+    "zipCode": "625",
+    "city": "嘉義縣",
+    "cityEnglish": "Chiayi County",
+    "district": "布袋鎮",
+    "districtEnglish": "Budai Township"
+  },
+  {
+    "zipCode": "630",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "斗南鎮",
+    "districtEnglish": "Dounan Township"
+  },
+  {
+    "zipCode": "631",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "大埤鄉",
+    "districtEnglish": "Dapi Township"
+  },
+  {
+    "zipCode": "632",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "虎尾鎮",
+    "districtEnglish": "Huwei Township"
+  },
+  {
+    "zipCode": "633",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "土庫鎮",
+    "districtEnglish": "Tuku Township"
+  },
+  {
+    "zipCode": "634",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "褒忠鄉",
+    "districtEnglish": "Baozhong Township"
+  },
+  {
+    "zipCode": "635",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "東勢鄉",
+    "districtEnglish": "Dongshi Township"
+  },
+  {
+    "zipCode": "636",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "臺西鄉",
+    "districtEnglish": "Taixi Township"
+  },
+  {
+    "zipCode": "637",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "崙背鄉",
+    "districtEnglish": "Lunbei Township"
+  },
+  {
+    "zipCode": "638",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "麥寮鄉",
+    "districtEnglish": "Mailiao Township"
+  },
+  {
+    "zipCode": "640",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "斗六市",
+    "districtEnglish": "Douliu City"
+  },
+  {
+    "zipCode": "643",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "林內鄉",
+    "districtEnglish": "Linnei Township"
+  },
+  {
+    "zipCode": "646",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "古坑鄉",
+    "districtEnglish": "Gukeng Township"
+  },
+  {
+    "zipCode": "647",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "莿桐鄉",
+    "districtEnglish": "Citong Township"
+  },
+  {
+    "zipCode": "648",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "西螺鎮",
+    "districtEnglish": "Xiluo Township"
+  },
+  {
+    "zipCode": "649",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "二崙鄉",
+    "districtEnglish": "Erlun Township"
+  },
+  {
+    "zipCode": "651",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "北港鎮",
+    "districtEnglish": "Beigang Township"
+  },
+  {
+    "zipCode": "652",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "水林鄉",
+    "districtEnglish": "Shuilin Township"
+  },
+  {
+    "zipCode": "653",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "口湖鄉",
+    "districtEnglish": "Kouhu Township"
+  },
+  {
+    "zipCode": "654",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "四湖鄉",
+    "districtEnglish": "Sihu Township"
+  },
+  {
+    "zipCode": "655",
+    "city": "雲林縣",
+    "cityEnglish": "Yunlin County",
+    "district": "元長鄉",
+    "districtEnglish": "Yuanchang Township"
+  },
+  {
+    "zipCode": "700",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "中西區",
+    "districtEnglish": "West Central Dist."
+  },
+  {
+    "zipCode": "701",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "東區",
+    "districtEnglish": "East Dist."
+  },
+  {
+    "zipCode": "702",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "南區",
+    "districtEnglish": "South Dist."
+  },
+  {
+    "zipCode": "704",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "北區",
+    "districtEnglish": "North Dist."
+  },
+  {
+    "zipCode": "708",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "安平區",
+    "districtEnglish": "Anping Dist."
+  },
+  {
+    "zipCode": "709",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "安南區",
+    "districtEnglish": "Annan Dist."
+  },
+  {
+    "zipCode": "710",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "永康區",
+    "districtEnglish": "Yongkang Dist."
+  },
+  {
+    "zipCode": "711",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "歸仁區",
+    "districtEnglish": "Guiren Dist."
+  },
+  {
+    "zipCode": "712",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "新化區",
+    "districtEnglish": "Xinhua Dist."
+  },
+  {
+    "zipCode": "713",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "左鎮區",
+    "districtEnglish": "Zuozhen Dist."
+  },
+  {
+    "zipCode": "714",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "玉井區",
+    "districtEnglish": "Yujing Dist."
+  },
+  {
+    "zipCode": "715",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "楠西區",
+    "districtEnglish": "Nanxi Dist."
+  },
+  {
+    "zipCode": "716",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "南化區",
+    "districtEnglish": "Nanhua Dist."
+  },
+  {
+    "zipCode": "717",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "仁德區",
+    "districtEnglish": "Rende Dist."
+  },
+  {
+    "zipCode": "718",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "關廟區",
+    "districtEnglish": "Guanmiao Dist."
+  },
+  {
+    "zipCode": "719",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "龍崎區",
+    "districtEnglish": "Longqi Dist."
+  },
+  {
+    "zipCode": "720",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "官田區",
+    "districtEnglish": "Guantian Dist."
+  },
+  {
+    "zipCode": "721",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "麻豆區",
+    "districtEnglish": "Madou Dist."
+  },
+  {
+    "zipCode": "722",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "佳里區",
+    "districtEnglish": "Jiali Dist."
+  },
+  {
+    "zipCode": "723",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "西港區",
+    "districtEnglish": "Xigang Dist."
+  },
+  {
+    "zipCode": "724",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "七股區",
+    "districtEnglish": "Qigu Dist."
+  },
+  {
+    "zipCode": "725",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "將軍區",
+    "districtEnglish": "Jiangjun Dist."
+  },
+  {
+    "zipCode": "726",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "學甲區",
+    "districtEnglish": "Xuejia Dist."
+  },
+  {
+    "zipCode": "727",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "北門區",
+    "districtEnglish": "Beimen Dist."
+  },
+  {
+    "zipCode": "730",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "新營區",
+    "districtEnglish": "Xinying Dist."
+  },
+  {
+    "zipCode": "731",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "後壁區",
+    "districtEnglish": "Houbi Dist."
+  },
+  {
+    "zipCode": "732",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "白河區",
+    "districtEnglish": "Baihe Dist."
+  },
+  {
+    "zipCode": "733",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "東山區",
+    "districtEnglish": "Dongshan Dist."
+  },
+  {
+    "zipCode": "734",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "六甲區",
+    "districtEnglish": "Liujia Dist."
+  },
+  {
+    "zipCode": "735",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "下營區",
+    "districtEnglish": "Xiaying Dist."
+  },
+  {
+    "zipCode": "736",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "柳營區",
+    "districtEnglish": "Liuying Dist."
+  },
+  {
+    "zipCode": "737",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "鹽水區",
+    "districtEnglish": "Yanshui Dist."
+  },
+  {
+    "zipCode": "741",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "善化區",
+    "districtEnglish": "Shanhua Dist."
+  },
+  {
+    "zipCode": "744",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "新市區",
+    "districtEnglish": "Xinshi Dist."
+  },
+  {
+    "zipCode": "742",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "大內區",
+    "districtEnglish": "Danei Dist."
+  },
+  {
+    "zipCode": "743",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "山上區",
+    "districtEnglish": "Shanshang Dist."
+  },
+  {
+    "zipCode": "745",
+    "city": "臺南市",
+    "cityEnglish": "Tainan City",
+    "district": "安定區",
+    "districtEnglish": "Anding Dist."
+  },
+  {
+    "zipCode": "800",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "新興區",
+    "districtEnglish": "Xinxing Dist."
+  },
+  {
+    "zipCode": "801",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "前金區",
+    "districtEnglish": "Qianjin Dist."
+  },
+  {
+    "zipCode": "802",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "苓雅區",
+    "districtEnglish": "Lingya Dist."
+  },
+  {
+    "zipCode": "803",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "鹽埕區",
+    "districtEnglish": "Yancheng Dist."
+  },
+  {
+    "zipCode": "804",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "鼓山區",
+    "districtEnglish": "Gushan Dist."
+  },
+  {
+    "zipCode": "805",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "旗津區",
+    "districtEnglish": "Qijin Dist."
+  },
+  {
+    "zipCode": "806",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "前鎮區",
+    "districtEnglish": "Qianzhen Dist."
+  },
+  {
+    "zipCode": "807",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "三民區",
+    "districtEnglish": "Sanmin Dist."
+  },
+  {
+    "zipCode": "811",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "楠梓區",
+    "districtEnglish": "Nanzi Dist."
+  },
+  {
+    "zipCode": "812",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "小港區",
+    "districtEnglish": "Xiaogang Dist."
+  },
+  {
+    "zipCode": "813",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "左營區",
+    "districtEnglish": "Zuoying Dist."
+  },
+  {
+    "zipCode": "814",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "仁武區",
+    "districtEnglish": "Renwu Dist."
+  },
+  {
+    "zipCode": "815",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "大社區",
+    "districtEnglish": "Dashe Dist."
+  },
+  {
+    "zipCode": "817",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "東沙群島",
+    "districtEnglish": "Dongsha Islands"
+  },
+  {
+    "zipCode": "819",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "南沙群島",
+    "districtEnglish": "Nansha Islands"
+  },
+  {
+    "zipCode": "820",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "岡山區",
+    "districtEnglish": "Gangshan Dist."
+  },
+  {
+    "zipCode": "821",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "路竹區",
+    "districtEnglish": "Luzhu Dist."
+  },
+  {
+    "zipCode": "822",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "阿蓮區",
+    "districtEnglish": "Alian Dist."
+  },
+  {
+    "zipCode": "823",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "田寮區",
+    "districtEnglish": "Tianliao Dist."
+  },
+  {
+    "zipCode": "824",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "燕巢區",
+    "districtEnglish": "Yanchao Dist."
+  },
+  {
+    "zipCode": "825",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "橋頭區",
+    "districtEnglish": "Qiaotou Dist."
+  },
+  {
+    "zipCode": "826",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "梓官區",
+    "districtEnglish": "Ziguan Dist."
+  },
+  {
+    "zipCode": "827",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "彌陀區",
+    "districtEnglish": "Mituo Dist."
+  },
+  {
+    "zipCode": "828",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "永安區",
+    "districtEnglish": "Yong’an Dist."
+  },
+  {
+    "zipCode": "829",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "湖內區",
+    "districtEnglish": "Hunei Dist."
+  },
+  {
+    "zipCode": "830",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "鳳山區",
+    "districtEnglish": "Fengshan Dist."
+  },
+  {
+    "zipCode": "831",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "大寮區",
+    "districtEnglish": "Daliao Dist."
+  },
+  {
+    "zipCode": "832",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "林園區",
+    "districtEnglish": "Linyuan Dist."
+  },
+  {
+    "zipCode": "833",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "鳥松區",
+    "districtEnglish": "Niaosong Dist."
+  },
+  {
+    "zipCode": "840",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "大樹區",
+    "districtEnglish": "Dashu Dist."
+  },
+  {
+    "zipCode": "842",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "旗山區",
+    "districtEnglish": "Qishan Dist."
+  },
+  {
+    "zipCode": "843",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "美濃區",
+    "districtEnglish": "Meinong Dist."
+  },
+  {
+    "zipCode": "844",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "六龜區",
+    "districtEnglish": "Liugui Dist."
+  },
+  {
+    "zipCode": "845",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "內門區",
+    "districtEnglish": "Neimen Dist."
+  },
+  {
+    "zipCode": "846",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "杉林區",
+    "districtEnglish": "Shanlin Dist."
+  },
+  {
+    "zipCode": "847",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "甲仙區",
+    "districtEnglish": "Jiaxian Dist."
+  },
+  {
+    "zipCode": "848",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "桃源區",
+    "districtEnglish": "Taoyuan Dist."
+  },
+  {
+    "zipCode": "849",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "那瑪夏區",
+    "districtEnglish": "Namaxia Dist."
+  },
+  {
+    "zipCode": "851",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "茂林區",
+    "districtEnglish": "Maolin Dist."
+  },
+  {
+    "zipCode": "852",
+    "city": "高雄市",
+    "cityEnglish": "Kaohsiung City",
+    "district": "茄萣區",
+    "districtEnglish": "Qieding Dist."
+  },
+  {
+    "zipCode": "817",
+    "city": "南海島",
+    "cityEnglish": "Nanhai",
+    "district": "東沙群島",
+    "districtEnglish": "Dongsha Islands"
+  },
+  {
+    "zipCode": "819",
+    "city": "南海島",
+    "cityEnglish": "Nanhai",
+    "district": "南沙群島",
+    "districtEnglish": "Nansha Islands"
+  },
+  {
+    "zipCode": "880",
+    "city": "澎湖縣",
+    "cityEnglish": "Penghu County",
+    "district": "馬公市",
+    "districtEnglish": "Magong City"
+  },
+  {
+    "zipCode": "881",
+    "city": "澎湖縣",
+    "cityEnglish": "Penghu County",
+    "district": "西嶼鄉",
+    "districtEnglish": "Xiyu Township"
+  },
+  {
+    "zipCode": "882",
+    "city": "澎湖縣",
+    "cityEnglish": "Penghu County",
+    "district": "望安鄉",
+    "districtEnglish": "Wang’an Township"
+  },
+  {
+    "zipCode": "883",
+    "city": "澎湖縣",
+    "cityEnglish": "Penghu County",
+    "district": "七美鄉",
+    "districtEnglish": "Qimei Township"
+  },
+  {
+    "zipCode": "884",
+    "city": "澎湖縣",
+    "cityEnglish": "Penghu County",
+    "district": "白沙鄉",
+    "districtEnglish": "Baisha Township"
+  },
+  {
+    "zipCode": "885",
+    "city": "澎湖縣",
+    "cityEnglish": "Penghu County",
+    "district": "湖西鄉",
+    "districtEnglish": "Huxi Township"
+  },
+  {
+    "zipCode": "890",
+    "city": "金門縣",
+    "cityEnglish": "Kinmen County",
+    "district": "金沙鎮",
+    "districtEnglish": "Jinsha Township"
+  },
+  {
+    "zipCode": "891",
+    "city": "金門縣",
+    "cityEnglish": "Kinmen County",
+    "district": "金湖鎮",
+    "districtEnglish": "Jinhu Township"
+  },
+  {
+    "zipCode": "892",
+    "city": "金門縣",
+    "cityEnglish": "Kinmen County",
+    "district": "金寧鄉",
+    "districtEnglish": "Jinning Township"
+  },
+  {
+    "zipCode": "893",
+    "city": "金門縣",
+    "cityEnglish": "Kinmen County",
+    "district": "金城鎮",
+    "districtEnglish": "Jincheng Township"
+  },
+  {
+    "zipCode": "894",
+    "city": "金門縣",
+    "cityEnglish": "Kinmen County",
+    "district": "烈嶼鄉",
+    "districtEnglish": "Lieyu Township"
+  },
+  {
+    "zipCode": "896",
+    "city": "金門縣",
+    "cityEnglish": "Kinmen County",
+    "district": "烏坵鄉",
+    "districtEnglish": "Wuqiu Township"
+  },
+  {
+    "zipCode": "900",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "屏東市",
+    "districtEnglish": "Pingtung City"
+  },
+  {
+    "zipCode": "901",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "三地門鄉",
+    "districtEnglish": "Sandimen Township"
+  },
+  {
+    "zipCode": "902",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "霧臺鄉",
+    "districtEnglish": "Wutai Township"
+  },
+  {
+    "zipCode": "903",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "瑪家鄉",
+    "districtEnglish": "Majia Township"
+  },
+  {
+    "zipCode": "904",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "九如鄉",
+    "districtEnglish": "Jiuru Township"
+  },
+  {
+    "zipCode": "905",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "里港鄉",
+    "districtEnglish": "Ligang Township"
+  },
+  {
+    "zipCode": "906",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "高樹鄉",
+    "districtEnglish": "Gaoshu Township"
+  },
+  {
+    "zipCode": "907",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "鹽埔鄉",
+    "districtEnglish": "Yanpu Township"
+  },
+  {
+    "zipCode": "908",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "長治鄉",
+    "districtEnglish": "Changzhi Township"
+  },
+  {
+    "zipCode": "909",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "麟洛鄉",
+    "districtEnglish": "Linluo Township"
+  },
+  {
+    "zipCode": "911",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "竹田鄉",
+    "districtEnglish": "Zhutian Township"
+  },
+  {
+    "zipCode": "912",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "內埔鄉",
+    "districtEnglish": "Neipu Township"
+  },
+  {
+    "zipCode": "913",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "萬丹鄉",
+    "districtEnglish": "Wandan Township"
+  },
+  {
+    "zipCode": "920",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "潮州鎮",
+    "districtEnglish": "Chaozhou Township"
+  },
+  {
+    "zipCode": "921",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "泰武鄉",
+    "districtEnglish": "Taiwu Township"
+  },
+  {
+    "zipCode": "922",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "來義鄉",
+    "districtEnglish": "Laiyi Township"
+  },
+  {
+    "zipCode": "923",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "萬巒鄉",
+    "districtEnglish": "Wanluan Township"
+  },
+  {
+    "zipCode": "924",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "崁頂鄉",
+    "districtEnglish": "Kanding Township"
+  },
+  {
+    "zipCode": "925",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "新埤鄉",
+    "districtEnglish": "Xinpi Township"
+  },
+  {
+    "zipCode": "926",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "南州鄉",
+    "districtEnglish": "Nanzhou Township"
+  },
+  {
+    "zipCode": "927",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "林邊鄉",
+    "districtEnglish": "Linbian Township"
+  },
+  {
+    "zipCode": "928",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "東港鎮",
+    "districtEnglish": "Donggang Township"
+  },
+  {
+    "zipCode": "929",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "琉球鄉",
+    "districtEnglish": "Liuqiu Township"
+  },
+  {
+    "zipCode": "931",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "佳冬鄉",
+    "districtEnglish": "Jiadong Township"
+  },
+  {
+    "zipCode": "932",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "新園鄉",
+    "districtEnglish": "Xinyuan Township"
+  },
+  {
+    "zipCode": "940",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "枋寮鄉",
+    "districtEnglish": "Fangliao Township"
+  },
+  {
+    "zipCode": "941",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "枋山鄉",
+    "districtEnglish": "Fangshan Township"
+  },
+  {
+    "zipCode": "942",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "春日鄉",
+    "districtEnglish": "Chunri Township"
+  },
+  {
+    "zipCode": "943",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "獅子鄉",
+    "districtEnglish": "Shizi Township"
+  },
+  {
+    "zipCode": "944",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "車城鄉",
+    "districtEnglish": "Checheng Township"
+  },
+  {
+    "zipCode": "945",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "牡丹鄉",
+    "districtEnglish": "Mudan Township"
+  },
+  {
+    "zipCode": "946",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "恆春鎮",
+    "districtEnglish": "Hengchun Township"
+  },
+  {
+    "zipCode": "947",
+    "city": "屏東縣",
+    "cityEnglish": "Pingtung County",
+    "district": "滿州鄉",
+    "districtEnglish": "Manzhou Township"
+  },
+  {
+    "zipCode": "950",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "臺東市",
+    "districtEnglish": "Taitung City"
+  },
+  {
+    "zipCode": "951",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "綠島鄉",
+    "districtEnglish": "Ludao Township"
+  },
+  {
+    "zipCode": "952",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "蘭嶼鄉",
+    "districtEnglish": "Lanyu Township"
+  },
+  {
+    "zipCode": "953",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "延平鄉",
+    "districtEnglish": "Yanping Township"
+  },
+  {
+    "zipCode": "954",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "卑南鄉",
+    "districtEnglish": "Beinan Township"
+  },
+  {
+    "zipCode": "955",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "鹿野鄉",
+    "districtEnglish": "Luye Township"
+  },
+  {
+    "zipCode": "956",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "關山鎮",
+    "districtEnglish": "Guanshan Township"
+  },
+  {
+    "zipCode": "957",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "海端鄉",
+    "districtEnglish": "Haiduan Township"
+  },
+  {
+    "zipCode": "958",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "池上鄉",
+    "districtEnglish": "Chishang Township"
+  },
+  {
+    "zipCode": "959",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "東河鄉",
+    "districtEnglish": "Donghe Township"
+  },
+  {
+    "zipCode": "961",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "成功鎮",
+    "districtEnglish": "Chenggong Township"
+  },
+  {
+    "zipCode": "962",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "長濱鄉",
+    "districtEnglish": "Changbin Township"
+  },
+  {
+    "zipCode": "963",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "太麻里鄉",
+    "districtEnglish": "Taimali Township"
+  },
+  {
+    "zipCode": "964",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "金峰鄉",
+    "districtEnglish": "Jinfeng Township"
+  },
+  {
+    "zipCode": "965",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "大武鄉",
+    "districtEnglish": "Dawu Township"
+  },
+  {
+    "zipCode": "966",
+    "city": "臺東縣",
+    "cityEnglish": "Taitung County",
+    "district": "達仁鄉",
+    "districtEnglish": "Daren Township"
+  },
+  {
+    "zipCode": "970",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "花蓮市",
+    "districtEnglish": "Hualien City"
+  },
+  {
+    "zipCode": "971",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "新城鄉",
+    "districtEnglish": "Xincheng Township"
+  },
+  {
+    "zipCode": "972",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "秀林鄉",
+    "districtEnglish": "Xiulin Township"
+  },
+  {
+    "zipCode": "973",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "吉安鄉",
+    "districtEnglish": "Ji’an Township"
+  },
+  {
+    "zipCode": "974",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "壽豐鄉",
+    "districtEnglish": "Shoufeng Township"
+  },
+  {
+    "zipCode": "975",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "鳳林鎮",
+    "districtEnglish": "Fenglin Township"
+  },
+  {
+    "zipCode": "976",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "光復鄉",
+    "districtEnglish": "Guangfu Township"
+  },
+  {
+    "zipCode": "977",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "豐濱鄉",
+    "districtEnglish": "Fengbin Township"
+  },
+  {
+    "zipCode": "978",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "瑞穗鄉",
+    "districtEnglish": "Ruisui Township"
+  },
+  {
+    "zipCode": "979",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "萬榮鄉",
+    "districtEnglish": "Wanrong Township"
+  },
+  {
+    "zipCode": "981",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "玉里鎮",
+    "districtEnglish": "Yuli Township"
+  },
+  {
+    "zipCode": "982",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "卓溪鄉",
+    "districtEnglish": "Zhuoxi Township"
+  },
+  {
+    "zipCode": "983",
+    "city": "花蓮縣",
+    "cityEnglish": "Hualien County",
+    "district": "富里鄉",
+    "districtEnglish": "Fuli Township"
+  }
+]
